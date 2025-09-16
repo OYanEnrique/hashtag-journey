@@ -1,3 +1,4 @@
+[Read in english](README.md) 
 # Jornada Python Hashtag - Automação de Tarefas
 
 Este repositório reúne as soluções dos exercícios das aulas de automação de tarefas com Python da Jornada Python da Hashtag.

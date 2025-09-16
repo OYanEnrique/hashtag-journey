@@ -1,3 +1,4 @@
+[Read in Portuguese](README-pt.md) 
 # Hashtag Python Journey - Task Automation
 
 This repository gathers solutions for all classes from the Hashtag Python Journey focused on task automation with Python.

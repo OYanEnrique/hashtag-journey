@@ -7,10 +7,10 @@ This repository gathers solutions for all classes from the Hashtag Python Journe
 This project aims to document and share code developed during practical classes on Python automation, including examples of file manipulation, process automation, and integration with various tools. New solutions will be added as future classes are completed.
 
 ## Project Structure
-- `gabarito.py`: Solution for class 1
-- `pegar_posicao.py`: Auxiliary script
-- `produtos.csv`: Dataset used
-- New files will be added for future classes
+- `day1.py`: Solution for class 1
+- `day2.py`: Auxiliary script
+- `day3.csv`: Dataset used
+- Files used in each class available as well
 
 ## How to Run
 1. Clone the repository:
@@ -19,7 +19,7 @@ This project aims to document and share code developed during practical classes 
    ```
 2. Navigate to the project folder:
    ```powershell
-   cd "Python projects\python automation"
+   cd "\hashtag-journey"
    ```
 3. Ensure you have Python 3 installed.
 4. Run the desired script:

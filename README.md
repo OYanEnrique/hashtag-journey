@@ -19,7 +19,7 @@ This project aims to document and share code developed during practical classes 
    ```
 2. Navigate to the project folder:
    ```powershell
-   cd "\hashtag-journey"
+   cd "hashtag-journey\"
    ```
 3. Ensure you have Python 3 installed.
 4. Run the desired script:

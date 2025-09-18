@@ -1,10 +1,10 @@
 [Read in Portuguese](README-pt.md) 
 # Hashtag Python Journey - Task Automation
 
-This repository gathers solutions for all classes from the Hashtag Python Journey focused on task automation with Python.
+This repository gathers solutions for all classes from the Hashtag Python Journey focused on coding with Python.
 
 ## Repository Description
-This project aims to document and share code developed during practical classes on Python automation, including examples of file manipulation, process automation, and integration with various tools. New solutions will be added as future classes are completed.
+This project aims to document and share code developed during practical classes, including examples of file manipulation, process automation, and integration with various libraries.
 
 ## Project Structure
 - `day1.py`: Solution for class 1

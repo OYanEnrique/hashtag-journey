@@ -1,15 +1,15 @@
 [Read in english](README.md) 
 # Jornada Python Hashtag - Automação de Tarefas
 
-Este repositório reúne as soluções dos exercícios das aulas de automação de tarefas com Python da Jornada Python da Hashtag.
+Este repositório reúne as soluções dos exercícios das aulas de Python da Jornada Python da Hashtag.
 
 ## Descrição do Repositório
-Este projeto tem como objetivo documentar e compartilhar os códigos desenvolvidos durante as aulas práticas de automação com Python, incluindo exemplos de manipulação de arquivos, automação de processos e integração com diferentes ferramentas. Novas soluções serão adicionadas conforme as próximas aulas forem realizadas.
+Este projeto tem como objetivo documentar e compartilhar os códigos desenvolvidos durante as aulas práticas, incluindo exemplos de manipulação de arquivos, automação de processos e integração com diferentes bibliotecas.
 
 ## Estrutura do Projeto
 - `day1.py`: Solução da aula 1
-- `day2.ipyinb`: Script auxiliar
-- `day3.ipyinb`: Base de dados utilizada
+- `day2.ipyinb`: Solução da aula 2
+- `day3.ipyinb`: Solução da aula 3
 - Arquivos para usar os projetos tambem estao disponivel
 
 ## Como Executar

@@ -8,8 +8,8 @@ This project aims to document and share code developed during practical classes 
 
 ## Project Structure
 - `day1.py`: Solution for class 1
-- `day2.py`: Auxiliary script
-- `day3.csv`: Dataset used
+- `day2.ipyinb`: Solution for class 2
+- `day3.ipyinb`: Solution for class 3
 - Files used in each class available as well
 
 ## How to Run

@@ -19,7 +19,7 @@ Este projeto tem como objetivo documentar e compartilhar os códigos desenvolvid
    ```
 2. Navegue até a pasta do projeto:
    ```powershell
-   cd "hashtag-journey\"
+   cd hashtag-journey\
    ```
 3. Certifique-se de ter o Python 3 instalado.
 4. Execute o script desejado:

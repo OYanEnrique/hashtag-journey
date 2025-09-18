@@ -7,10 +7,10 @@ Este repositório reúne as soluções dos exercícios das aulas de automação 
 Este projeto tem como objetivo documentar e compartilhar os códigos desenvolvidos durante as aulas práticas de automação com Python, incluindo exemplos de manipulação de arquivos, automação de processos e integração com diferentes ferramentas. Novas soluções serão adicionadas conforme as próximas aulas forem realizadas.
 
 ## Estrutura do Projeto
-- `gabarito.py`: Solução da aula 1
-- `pegar_posicao.py`: Script auxiliar
-- `produtos.csv`: Base de dados utilizada
-- Novos arquivos serão adicionados para as próximas aulas
+- `day1.py`: Solução da aula 1
+- `day2.ipyinb`: Script auxiliar
+- `day3.ipyinb`: Base de dados utilizada
+- Arquivos para usar os projetos tambem esta disponivel
 
 ## Como Executar
 1. Clone o repositório:
@@ -19,7 +19,7 @@ Este projeto tem como objetivo documentar e compartilhar os códigos desenvolvid
    ```
 2. Navegue até a pasta do projeto:
    ```powershell
-   cd "Python projects\python automation"
+   cd "hashtag-journey\"
    ```
 3. Certifique-se de ter o Python 3 instalado.
 4. Execute o script desejado:

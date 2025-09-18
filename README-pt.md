@@ -10,7 +10,7 @@ Este projeto tem como objetivo documentar e compartilhar os códigos desenvolvid
 - `day1.py`: Solução da aula 1
 - `day2.ipyinb`: Script auxiliar
 - `day3.ipyinb`: Base de dados utilizada
-- Arquivos para usar os projetos tambem esta disponivel
+- Arquivos para usar os projetos tambem estao disponivel
 
 ## Como Executar
 1. Clone o repositório:
